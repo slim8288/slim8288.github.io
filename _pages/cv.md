@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * PhD Earth System Science, Stanford University, 2025 (expected)
 * BA Biology with honors _summa cum laude_, Scripps College, 2018 \
   Thesis: "Assessing loss rates of a developing red tide at the population level"
 
-
-Research Experience
-======
+## Research Experience
 * __2019-current: Stanford University__ \
 Graduate Student Researcher \
 Polar biological oceanography \
@@ -33,7 +30,7 @@ Undergraduate Research Assistant \
 Intertidal marine ecology \
 PI: Dr. Sarah Gilman
 
-* __Summer 2017: Woods HOle Oceanographic Institution__ \
+* __Summer 2017: Woods Hole Oceanographic Institution__ \
 Summer Student Fellow \
 Harmful algal bloom ecology \
 PIs: Dr. Donald Anderson and Dr. Michael Brosnahan
@@ -44,23 +41,20 @@ Sea ice biogeochemistry \
 PI: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 
-Grants, Fellowships, and Awards
-=====
+## Grants, Fellowships, and Awards
 * Stanford Graduate Fellowship
 * NSF Graduate Research Fellowship
 * NSF Research Grant for Doctoral Dissertation Research: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
 * James E. Scripps Scholarship
 
 
-Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
-======
+## Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
 * Student branch organizer, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-current
-* Mentor and leader, [Future Advancers of Science and Technology](https://www.fastprogram.org), 2019-present
+* Mentor and leader, [Future Advancers of Science and Technology](https://www.fastprogram.org), 2019-current
 * Scientist participant (by invitation), [National Geographic Society Convening "Systems Change in the Arctic Ocean Ecosystem"](https://www.nationalgeographic.com/environment/topic/perpetual-planet), 2022
 
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

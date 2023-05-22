@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephanie Lim"
+title                    : "Stephanie M. Lim"
 title_separator          : "-"
-name                     : &name "Stephanie Lim"
+name                     : &name "Stephanie M. Lim"
 description              : &description "personal description"
 url                      : https://slim8288.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
