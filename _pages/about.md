@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+excerpt: "Stephanie M. Lim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hello! I am a PhD candidate in Earth System Science at Stanford University. I work in the lab of Dr. Kevin Arrigo. My research focuses on primary producers and how the polar oceans are responding to climate change. I like to say that I study "where, when, how, and why algae bloom" using a combination of satellite remote sensing, models, and field observations. Some specific areas of interest include sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
+
+I am also passionate about increasing access to STEM and education through long-range mentorship. Head to the [Outreach & Mentoring](https://slim8288.github.io/mentoring) page to learn more!
+
+I recently gave a talk for the International Glaciological Society's Global Seminar Series on some of my recent work creating 15+ year time series of ice algal habitat in both poles. You can watch the [video here](https://youtu.be/Z_-POxSpuCU).
+
+
+=====
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

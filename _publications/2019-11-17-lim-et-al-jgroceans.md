@@ -1,0 +1,14 @@
+---
+title: "Antarctic fast ice biogeochemistry: Si"
+collection: publications
+permalink: /publication/2019-lim-et-al-jgroceans
+excerpt: 'Over 2 weeks of repeated sampling at Davis Station, East Antarctica characterized a stable landfast sea ice ecosystem in late spring. Remineralization likely resupplied enough nutrients to maintain high accumulation of diatoms in the bottom ice, but silica was likely limiting. 1D biogeochemical modelling best reproduced the system when the half-saturation constant for silica uptake was increased to 50 μM, indicating a low affinity for silica.'
+date: 2019-11-17
+venue: 'Journal of Geophysical Research: Oceans'
+paperurl: 'http://academicpages.github.io/files/2019-lim-et-al-jgroceans.pdf'
+---
+Abstract: We use field observations from late spring and a one-dimensional sea-ice model to explore a high nutrient, high chlorophyll system in Antarctic land-fast ice. Lack of variability in chlorophyll a concentration and organic carbon content over the 17-day sampling period suggests a balance between macronutrient sources and biological uptake. Nitrate, nitrite, phosphate, and ammonium were measured at concentrations well above salinity-predicted levels, indicating nutrient accumulation fueled by remineralization processes. However, silicic acid (DSi) was depleted relative to seawater and was potentially limiting. One-dimensional physical-biogeochemical sea-ice model simulations at the observation site achieve extremely high algal growth and DSi uptake with a DSi half-saturation constant used for pelagic diatoms (KSi = 3.9 μM) and are not sufficiently improved by tuning the DSi:carbon ratio or DSi remineralization rate. In contrast, diatom biomass in the bottom ice, which makes up 70% of the observed chlorophyll, is simulated using KSi an order of magnitude higher (50 μM), a value similar to that measured in a few Antarctic diatom cultures. Some sea-ice diatoms may therefore experience limitation at relatively high ambient DSi concentrations compared to pelagic diatoms. Our study highlights the urgent need for observational data on sea-ice algal affinity for DSi to further support this hypothesis. A lower algal growth rate increases model predictions of DSi in the upper sea ice to more accurate concentrations. The model currently does not account for the non-diatom communities that dominate those layers, and thus, modeling diatom communities overpredicts DSi uptake in the upper ice.
+
+[Download paper here](http://academicpages.github.io/files/2019-lim-et-al-jgroceans.pdf)
+
+Citation: Lim, S. M., Moreau, S., Vancoppenolle, M., Deman, F., Roukaerts, A., Meiners, K. M., Janssens, J., and Lannuzel, D. 2019. Field observations and physical-biogeochemical modeling suggest low silicon affinity for Antarctic fast ice diatoms. _Journal of Geophysical Research: Oceans_, 124: 7837–7853. DOI:[10.1029/2018JC014458](https://dx.doi.org/10.1029/2018JC014458)

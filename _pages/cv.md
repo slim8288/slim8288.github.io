@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Earth System Science, Stanford University, 2025 (expected)
+* BA Biology with honors _summa cum laude_, Scripps College, 2018 \
+  Thesis: "Assessing loss rates of a developing red tide at the population level"
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __2019-current: Stanford University__ \
+Graduate Student Researcher \
+Polar biological oceanography \
+PI: Dr. Kevin Arrigo 
 
-Publications
+* __2018-2019: Woods Hole Oceanographic Institution__ \
+Research Assistant I \
+Harmful algal bloom ecology \
+PI: Dr. Michael Brosnahan
+
+* __2015-2018: The Claremont Colleges__ \
+Undergraduate Research Assistant \
+Intertidal marine ecology \
+PI: Dr. Sarah Gilman
+
+* __Summer 2017: Woods HOle Oceanographic Institution__ \
+Summer Student Fellow \
+Harmful algal bloom ecology \
+PIs: Dr. Donald Anderson and Dr. Michael Brosnahan
+
+* __Spring 2017: University of Tasmania__ \
+Undergraduate Research Assistant \
+Sea ice biogeochemistry \
+PI: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
+
+
+Grants, Fellowships, and Awards
+=====
+* Stanford Graduate Fellowship
+* NSF Graduate Research Fellowship
+* NSF Research Grant for Doctoral Dissertation Research: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
+* James E. Scripps Scholarship
+
+
+Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Student branch organizer, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-current
+* Mentor and leader, [Future Advancers of Science and Technology](https://www.fastprogram.org), 2019-present
+* Scientist participant (by invitation), [National Geographic Society Convening "Systems Change in the Arctic Ocean Ecosystem"](https://www.nationalgeographic.com/environment/topic/perpetual-planet), 2022
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
