@@ -50,11 +50,5 @@ PI: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 ## Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
 * Student branch organizer, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-current
-* Mentor and leader, [Future Advancers of Science and Technology](https://www.fastprogram.org), 2019-current
 * Scientist participant (by invitation), [National Geographic Society Convening "Systems Change in the Arctic Ocean Ecosystem"](https://www.nationalgeographic.com/environment/topic/perpetual-planet), 2022
-
-  
-## Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Mentor for 4 high school students and 2 undergraduate students

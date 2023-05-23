@@ -1,5 +1,5 @@
 ---
-title: "Arctic ice algal habitat"
+title: "Arctic sea ice algal habitat"
 collection: publications
 permalink: /publication/2022-lim-et-al-elementa
 excerpt: 'Using a radiative transfer and a combination of remote sensing and model datasets, we found that the extent and duration of sea ice algal habitat in the Arctic increased during 1985-2018. This was attributed to the shift from multiyear ice to thinner first-year ice with a thinner snow cover. As ice-free summers in the Arctic are expected around 2050, we predict that this increase will be short-lived.'
