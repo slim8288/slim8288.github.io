@@ -14,4 +14,8 @@ I am also passionate about increasing access to STEM and education through long-
 
 I recently gave a talk for the International Glaciological Society's Global Seminar Series on some of my recent work creating 15+ year time series of ice algal habitat in both poles. You can watch the [video here](https://youtu.be/Z_-POxSpuCU).
 
-![](http://academicpages.github.io/files/Ant_headshot.jpg)
+![Stephanie Lim in Antarctica](images/Ant_headshot.jpg)
+<sup>At Brown Bluff, Antarctica</sup>
+
+
+<sup>Headshot photo in sidebar by Rachel Lim.</sup>

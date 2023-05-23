@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+![Several people exploring a tidepool](../images/tidepool.jpg)
+<sup>Tidepooling in Half Moon Bay as part of The Oceans class</sup>
+
 ## Stanford University
 ### The Oceans: An Introduction to the Marine Environment
 * _Co-Instructor of Record_, Spring 2022
