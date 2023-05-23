@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * PhD Earth System Science, Stanford University, 2025 (expected)
-* BA Biology with honors _summa cum laude_, Scripps College, 2018 \
+* BA Biology with honors, _summa cum laude_, Scripps College, 2018 \
   Thesis: "Assessing loss rates of a developing red tide at the population level"
 
 ## Research Experience
