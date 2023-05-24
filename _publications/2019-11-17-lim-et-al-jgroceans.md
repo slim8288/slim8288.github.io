@@ -2,7 +2,7 @@
 title: "Antarctic landfast sea ice biogeochemistry: Si"
 collection: publications
 permalink: /publication/2019-lim-et-al-jgroceans
-excerpt: 'Over 2 weeks of repeated sampling at Davis Station, East Antarctica characterized a stable landfast sea ice ecosystem in late spring. Remineralization likely resupplied enough nutrients to maintain high accumulation of diatoms in the bottom ice, but silica was likely limiting. 1D biogeochemical modelling best reproduced the system when the half-saturation constant for silica uptake was increased to 50 μM, indicating a low affinity for silica.'
+excerpt: 'Over 2 weeks of repeated sampling at Davis Station (East Antarctica) characterized a stable landfast sea ice ecosystem in late spring. Remineralization likely resupplied enough nutrients to maintain high accumulation of diatoms in the bottom ice, but silica was likely limiting. 1D biogeochemical modelling best reproduced the system when the half-saturation constant for silica uptake was increased to 50 μM, indicating a low affinity for silica.'
 date: 2019-11-17
 venue: 'Journal of Geophysical Research: Oceans'
 paperurl: '/files/2019-lim-et-al-jgroceans.pdf'
