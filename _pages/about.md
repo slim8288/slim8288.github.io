@@ -20,4 +20,4 @@ I recently gave a talk for the International Glaciological Society's Global Semi
 <sup>At Brown Bluff, Antarctica</sup>
 
 
-<sup>Headshot photo in sidebar by Rachel Lim.</sup>
+<sup>Headshot photo in sidebar: © Rachel Lim, 2019.</sup>
