@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a PhD candidate in Earth System Science at Stanford University. I work in the lab of Dr. Kevin Arrigo. My research focuses on primary producers in the polar oceans. I like to say that I study "where, when, how, and why algae bloom" using a combination of satellite remote sensing, models, and field observations. Some specific areas of interest include sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
 
-Though distant, the polar oceans help balance the entire Earth system and directly support human activites such as food production and transportation through shipping routes. They also are experiencing some of the fastest and most severe effects of climate change. My work seeks in part to observe, quantify, and predict these changes, with implications for the carbon cycle and ecosystem balance.
+The polar oceans help balance the entire Earth system and directly support human activites such as food production and transportation through shipping routes. They also are experiencing some of the fastest and most severe effects of climate change. My work seeks in part to observe, quantify, and predict these changes, with implications for the carbon cycle and ecosystem balance.
 
 I am also passionate about increasing access to STEM and higher education through long-range mentorship. Head to the [Outreach & Mentoring](https://slim8288.github.io/mentoring) page to learn more!
 
