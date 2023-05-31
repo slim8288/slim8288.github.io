@@ -12,6 +12,7 @@ redirect_from:
 ## Education
 * PhD Earth System Science, Stanford University, 2025 (expected)
 * BA Biology with honors, _summa cum laude_, Scripps College, 2018 \
+  Dance minor \ 
   Thesis: "Assessing loss rates of a developing red tide at the population level"
 
 ## Research Experience
