@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * PhD Earth System Science, Stanford University, 2025 (expected)
 * BA Biology with honors, _summa cum laude_, Scripps College, 2018 \
-Dance minor \ 
+Dance minor \
 Thesis: "Assessing loss rates of a developing red tide at the population level"
 
 ## Research Experience
@@ -39,7 +39,7 @@ PIs: Dr. Donald Anderson and Dr. Michael Brosnahan
 * __Spring 2017: University of Tasmania__ \
 Undergraduate Research Assistant \
 Sea ice biogeochemistry \
-PI: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
+PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 
 ## Grants, Fellowships, and Awards
