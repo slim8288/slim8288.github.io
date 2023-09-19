@@ -11,4 +11,4 @@ Abstract: In the Arctic Ocean, sea ice algae are responsible for a small but sea
 
 [Download paper here](/files/2022-lim-et-al-elementa.pdf)
 
-Citation: Lim, S. M., Payne, C. M., van Dijken, G. L., Arrigo, K. R. 2022. Increases in Arctic ice algal habitat, 1985-2018. _Elementa: Science of the Anthropocene_, 10(1). DOI:[10.1525/elementa.2022.00008](https://dx.doi.org/10.1525/elementa.2022.00008)
+Citation: Lim, S. M., Payne, C. M., van Dijken, G. L., Arrigo, K. R. 2022. Increases in Arctic ice algal habitat, 1985-2018. _Elementa: Science of the Anthropocene_, 10(1): 00008. DOI:[10.1525/elementa.2022.00008](https://dx.doi.org/10.1525/elementa.2022.00008)
