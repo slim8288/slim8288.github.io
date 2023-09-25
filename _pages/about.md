@@ -19,5 +19,8 @@ I recently gave a talk for the International Glaciological Society's Global Semi
 ![Stephanie Lim in Antarctica](images/Ant_headshot.jpg)
 <sup>At Brown Bluff, Antarctica</sup>
 
+> ## Media coverage
+> * [Stephanie Lim ’18 Studies Climate Change in the Alaskan Arctic](https://www.scrippscollege.edu/news/stem/stephanie-lim-18-studies-climate-change-in-the-alaskan-arctic) by Scripps College (2023)
+> * [I'm Stephanie Lim!](https://www.polarimpactnetwork.org/features/stephanie-lim) by Polar Impact (2021) 
 
 <sup>Headshot photo in sidebar: © Rachel Lim, 2019.</sup>
