@@ -10,8 +10,8 @@ author_profile: true
 
 ## Stanford University
 ### The Oceans: An Introduction to the Marine Environment
-* _Co-Instructor of Record_, Spring 2022
-* [Syllabus](../files/Syllabus_EARTHSYS8_oceans_2022_May17.pdf)
+* _Co-Instructor of Record_, Spring 2022, Spring 2024
+* [Syllabus](../files/Syllabus_EARTHSYS8_oceans_2024.pdf)
 
 ### Remote Sensing of the Oceans
 * _Teaching Assistant_, Winter 2023
