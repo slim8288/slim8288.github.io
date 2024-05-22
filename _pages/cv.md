@@ -43,6 +43,7 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 
 ## Grants, Fellowships, and Awards
+* Achievement Rewards for College Scientists Fellowship
 * Stanford Graduate Fellowship
 * NSF Graduate Research Fellowship
 * NSF Research Grant for Doctoral Dissertation Research: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
