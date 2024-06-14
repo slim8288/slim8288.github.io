@@ -46,8 +46,12 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 * ARCS Foundation Scholar Award
 * Stanford Graduate Fellowship
 * NSF Graduate Research Fellowship
+* Stanford Earth System Science Award for DEI Leadership
 * NSF Research Grant for Doctoral Dissertation Research: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
+* Stanford Doerr School of Sustainability Graduate Research Grant: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
 * James E. Scripps Scholarship
+* WHOI Summer Student Fellowship (REU)
+* The Claremont College Bechtel Summer Research Fellowship
 
 
 ## Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
