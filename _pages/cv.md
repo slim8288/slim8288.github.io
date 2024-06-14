@@ -13,7 +13,7 @@ redirect_from:
 * PhD Earth System Science, Stanford University, 2025 (expected)
 * BA Biology with honors, _summa cum laude_, Scripps College, 2018 \
 Dance minor \
-Thesis: "Assessing loss rates of a developing red tide at the population level"
+Thesis: _"Assessing loss rates of a developing red tide at the population level"_
 
 ## Research Experience
 * __2019-current: Stanford University__ \
@@ -47,8 +47,8 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 * Stanford Graduate Fellowship
 * NSF Graduate Research Fellowship
 * Stanford Earth System Science Award for DEI Leadership
-* NSF Research Grant for Doctoral Dissertation Research: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
-* Stanford Doerr School of Sustainability Graduate Research Grant: “Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”
+* NSF Research Grant for Doctoral Dissertation Research: _“Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”_
+* Stanford Doerr School of Sustainability Graduate Research Grant: _“Dissolved organic nitrogen uptake by harmful algal blooms in the Chukchi Sea”_
 * James E. Scripps Scholarship
 * WHOI Summer Student Fellowship (REU)
 * The Claremont College Bechtel Summer Research Fellowship
