@@ -55,7 +55,7 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 
 ## Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
-* Student branch organizer, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-current
+* Steering Committee Member, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-current
 * Virtual panelist, "Underrepresented Groups in Ocean Science," hosted by the Society for Women in Marine Science Mississippi Chapter and the University of Southern Mississippi School of Ocean Science and Engineering DEI Committee, 2023
 * Scientist participant (by invitation), [National Geographic Society Convening: "Systems Change in the Arctic Ocean Ecosystem"](https://www.nationalgeographic.com/environment/topic/perpetual-planet), 2022
 * Mentor for 4 high school students and 2 undergraduate students
