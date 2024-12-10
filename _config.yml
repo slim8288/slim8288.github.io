@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stephanie M. Lim"
   avatar           : "headshot.jpg"
-  bio              : "Biological Oceanographer"
+  bio              : "Oceanographer"
   location         : "Stanford, USA"
   employer         :
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@slim_oceans"
+  twitter          : #"@slim_oceans"
   vine             :
   weibo            :
   xing             :
