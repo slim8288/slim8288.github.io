@@ -14,7 +14,7 @@ I am passionate about increasing recruitment and retention in STEM and higher ed
 I have held several leadership positions in FAST, but I am most proud of our work establishing the [Grant Imahara FAST Scholarship](https://www.fastprogram.org/gifs) in 2023, in partnership with a local nonprofit, the [Grant Imahara STEAM Foundation](https://www.grantimaharafoundation.org). The scholarship provides $10k over 2 years to FAST alumni in college! Over 8 months, I co-led a wonderful team team in proposing, designing, and rolling out the scholarship. The scholarship is now established as an ongoing annual award entering its third year. More than 75% of recipients are first-generation college students, and the scholarship has enabled some recipients to attend a four-year school instead of community college. I continue to co-lead the scholarship application and review process and to serve as a mentor resource for current recipients navigating their college experience.
 
 > How you can be involved:
-* FAST is looking to launch new college + high school partnerships and to increase support and resources for our student projects. Please see the [FAST website](https://www.fastprogram.org) or I can get you connected via email.
+* FAST is looking to launch new university + high school partnerships and to increase support and resources for our student projects. Please see the [FAST website](https://www.fastprogram.org) or I can get you connected via email.
 * If you are a graduate student at Stanford or UC Berkeley, you can be a FAST mentor! Please see the [Stanford FAST website](https://fast.stanford.edu) or email berkeleyFAST (at) gmail.com
 
 ## Sustainability Undergraduate Research in Geoscience and Engineering (SURGE) Program
