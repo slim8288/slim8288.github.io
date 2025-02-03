@@ -55,15 +55,9 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 * The Claremont College Bechtel Summer Research Fellowship
 
 
-## Awards
-* Stanford Earth System Science Award for DEI Leadership
-
-
 ## Service (see also [Outreach & Mentoring](https://slim8288.github.io/mentoring))
 * Mentor for 4 high school students and 2 undergraduate students
 * Co-Director of Scholarships, [Future Advancers of Science and Technology](https://www.fastprogram.org), 2023-current
   * Development Officer, 2022-2023
   * Financial Officer, 2020-2022
-* Steering Committee Member, [Asian Americans and Pacific Islanders in Geosciences (AAPIiG)](https://www.aapigeosci.org), 2022-2024
-* Virtual panelist, "Underrepresented Groups in Ocean Science," hosted by the Society for Women in Marine Science Mississippi Chapter and the University of Southern Mississippi School of Ocean Science and Engineering DEI Committee, 2023
 * Scientist participant (by invitation), [National Geographic Society Convening: "Systems Change in the Arctic Ocean Ecosystem"](https://www.nationalgeographic.com/environment/topic/perpetual-planet), 2022
