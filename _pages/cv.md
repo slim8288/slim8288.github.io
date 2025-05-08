@@ -12,7 +12,8 @@ redirect_from:
 Please see [Research](https://slim8288.github.io/research) for publications 
 
 ## Education
-* PhD Earth System Science, Stanford University, 2025 (expected)
+* PhD Earth System Science, Stanford University, expected Sep 2025\
+Dissertation: _"Primary producers in the changing polar oceans"_
 * BA Biology with honors, _summa cum laude_, Scripps College, 2018 \
 Dance minor \
 Thesis: _"Assessing loss rates of a developing red tide at the population level"_
