@@ -18,3 +18,7 @@ Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. In press. _Ma
 **Lim, SM**, CM Payne, GL van Dijken, KR Arrigo. 2022. Increases in Arctic ice algal habitat, 1985-2018. _Elementa: Science of the Anthropocene_, 10(1): 00008. DOI:[10.1525/elementa.2022.00008](https://doi.org/10.1525/elementa.2022.00008)
 
 **Lim, SM**, S Moreau, M Vancoppenolle, F Deman, A Roukaerts, KM Meiners, J Janssens, D Lannuzel. 2019. Field observations and physical‐biogeochemical modeling suggest low silicon affinity for Antarctic fast ice diatoms. _Journal of Geophysical Research: Oceans_, 124: 7837–7853. DOI:[10.1029/2018JC014458](http://dx.doi.org/10.1029/2018JC014458)
+
+
+![Landscape with sea ice, glacial ice, and rock](../images/seaice.jpg)
+<sup>Sea ice breakup in the Lemaire Channel, Antarctica</sup>
