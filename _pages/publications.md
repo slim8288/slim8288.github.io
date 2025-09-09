@@ -19,6 +19,5 @@ Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. In press. _Ma
 
 **Lim, SM**, S Moreau, M Vancoppenolle, F Deman, A Roukaerts, KM Meiners, J Janssens, D Lannuzel. 2019. Field observations and physical‐biogeochemical modeling suggest low silicon affinity for Antarctic fast ice diatoms. _Journal of Geophysical Research: Oceans_, 124: 7837–7853. DOI:[10.1029/2018JC014458](http://dx.doi.org/10.1029/2018JC014458)
 
-
 ![Landscape with sea ice, glacial ice, and rock](../images/seaice.jpg)
 <sup>Sea ice breakup in the Lemaire Channel, Antarctica</sup>

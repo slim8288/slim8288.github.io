@@ -10,7 +10,7 @@ redirect_from:
 
 > Update: I recently finished my PhD and am staying for a short-term "bridge" postdoc in the Arrigo lab. I am actively on the postdoc/job market for positions in oceanography! Please get in touch if I might be a good fit for your program.
 
-Hello! I am a **PhD candidate in Earth System Science at Stanford University** with Dr. Kevin Arrigo. My research focuses on **primary producers in the polar oceans**. I like to say that I study "where, when, why, and how algae bloom" using a **combination of satellite remote sensing, models, and field observations**. Some active areas of research include net primary production estimates, sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
+Hello! I am a **recent PhD in Earth System Science at Stanford University** with Dr. Kevin Arrigo. My research focuses on **primary producers in the polar oceans**. I like to say that I study "where, when, why, and how algae bloom" using a **combination of satellite remote sensing, models, and field observations**. Some active areas of research include net primary production estimates, sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
 
 The polar oceans help balance the entire Earth system and directly support human activites such as food production and transportation through shipping routes. They also are experiencing some of the fastest and most severe effects of climate change. My work seeks in part to observe, quantify, and predict these changes, with **implications for the carbon cycle and ecosystem balance**.
 
