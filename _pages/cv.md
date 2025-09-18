@@ -17,6 +17,11 @@ Dance minor \
 Thesis: _"Assessing loss rates of a developing red tide at the population level"_
 
 ## Research Experience
+* __Stanford University, 2025-current__ \
+Postdoctoral Scholar \
+Polar biological oceanography \
+PI: Dr. Kevin Arrigo 
+
 * __Stanford University, 2019-2025__ \
 Graduate Student Researcher \
 Polar biological oceanography \
