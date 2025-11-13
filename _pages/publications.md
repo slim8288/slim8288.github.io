@@ -9,7 +9,7 @@ _Please feel free to email me for a copy of any of these works._
 
 **Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In review. Urea dominates nitrogen uptake in the Pacific Arctic Ocean during a summer bloom of _Alexandrium catenella_. 
 
-Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. In press. _Marine Ecology Progress Series_. A high-density multi-species bivalve spawning event in the southern Chukchi Sea. DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
+Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. In press. _Marine Ecology Progress Series_, 773: 43-59. A high-density multi-species bivalve spawning event in the southern Chukchi Sea. DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
 
 **Lim, SM**, K Campbell, KR Arrigo. 2025. Primary production associated with sea ice. In DN Thomas (Ed.), _Sea Ice_ (4th ed.). John Wiley & Sons, Ltd. DOI:[10.1002/9781394213764.ch12](https://doi.org/10.1002/9781394213764.ch12)
 
