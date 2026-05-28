@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a **postdoctoral scholar in Earth System Science at Stanford University** with Dr. Kevin Arrigo. I am excited to be transitioning to a NASA Postdoctoral Program Fellow at the Jet Propulsion Laboratory in the September. My research focuses on **primary producers in the polar oceans**. I like to say that I study "where, when, why, and how algae bloom" using a **combination of satellite remote sensing, models, and field observations**. Some areas of research include net primary production estimates, sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
+Hello! I am currently a **postdoctoral scholar in Earth System Science at Stanford University** with Dr. Kevin Arrigo. I am excited to be transitioning to a NASA Postdoctoral Program Fellow at the Jet Propulsion Laboratory in the September.
+
+My research focuses on **primary producers in the polar oceans**. I like to say that I study "where, when, why, and how algae bloom" using a **combination of satellite remote sensing, models, and field observations**. Some areas of research include net primary production estimates, sea ice biogeochemistry, algal sinking speeds and carbon export, and the appearance of harmful algal blooms in the Arctic Ocean.
 
 The polar oceans help balance the entire Earth system and directly support human activites such as food production and transportation through shipping routes. They also are experiencing some of the fastest and most severe effects of climate change. My work seeks in part to observe, quantify, and predict these changes, with **implications for the carbon cycle and ecosystem balance**.
 
