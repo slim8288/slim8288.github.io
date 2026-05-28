@@ -11,7 +11,7 @@ _Please feel free to email me for a copy of any of these works._
 
 Lauer, JA, GL van Dijken, MM Mills, RS Pickart, L Arlen, **SM Lim**, E Li, CM Payne, C Proctor, G Zhong, M Prakash, C Michel, KR Arrigo. In press. Particle interceptor trap deployments demonstrate enhanced export driven by frontal dynamics in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
 
-Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. 2025. A high-density multi-species bivalve spawning event in the southern Chukchi Sea.  _Marine Ecology Progress Series_, 773: 43-59.DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
+Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. 2025. A high-density multi-species bivalve spawning event in the southern Chukchi Sea.  _Marine Ecology Progress Series_, 773: 43-59. DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
 
 **Lim, SM**, K Campbell, KR Arrigo. 2025. Primary production associated with sea ice. In DN Thomas (Ed.), _Sea Ice_ (4th ed.). John Wiley & Sons, Ltd. DOI:[10.1002/9781394213764.ch12](https://doi.org/10.1002/9781394213764.ch12)
 
