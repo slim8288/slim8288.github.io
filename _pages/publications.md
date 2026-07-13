@@ -9,6 +9,8 @@ _Please feel free to email me for a copy of any of these works._
 
 **Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In revision. Urea dominates nitrogen uptake in the Pacific Arctic Ocean during a summer bloom of _Alexandrium catenella_. 
 
+Proctor, C, MM Mills, GL van Dijken, JA Lauer, **SM Lim**, A Palm, CM Payne, RS Pickart, CW Mordy, E Li, M Prakash, KR Arrigo. In press. Evolution of an extensive under-ice phytoplankton bloom in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
+
 Lauer, JA, GL van Dijken, MM Mills, RS Pickart, L Arlen, **SM Lim**, E Li, CM Payne, C Proctor, G Zhong, M Prakash, C Michel, KR Arrigo. In press. Particle interceptor trap deployments demonstrate enhanced export driven by frontal dynamics in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
 
 Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. 2025. A high-density multi-species bivalve spawning event in the southern Chukchi Sea.  _Marine Ecology Progress Series_, 773: 43-59. DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
