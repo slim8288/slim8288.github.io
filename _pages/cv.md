@@ -17,7 +17,12 @@ Dance minor \
 Thesis: _"Assessing loss rates of a developing red tide at the population level"_
 
 ## Research Experience
-* __Stanford University, 2025-current__ \
+* __Jet Propulsion Laboratory, 2026-current__ \
+Postdoctoral Fellow \
+Still taking shape!
+PI: Dr. Michelle Gierach
+
+* __Stanford University, 2025-2026__ \
 Postdoctoral Scholar \
 Polar biological oceanography \
 PI: Dr. Kevin Arrigo 
@@ -49,6 +54,7 @@ PIs: Dr. Delphine Lannuzel and Dr. Sebastien Moreau
 
 
 ## Grants and Fellowships
+* NASA Postdoctoral Program Fellowship
 * ARCS Foundation Scholar Award
 * Stanford Graduate Fellowship
 * NSF Graduate Research Fellowship

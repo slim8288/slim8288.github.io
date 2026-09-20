@@ -7,7 +7,7 @@ author_profile: true
 
 _Please feel free to email me for a copy of any of these works._
 
-**Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In revision. Urea dominates nitrogen uptake in the Pacific Arctic Ocean during a summer bloom of _Alexandrium catenella_. 
+**Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In press. Urea dominates nitrogen uptake in the Pacific Arctic Ocean during a summer bloom of _Alexandrium catenella_. _Harmful Algae_. DOI:[10.1016/j.hal.2026.103230](https://doi.org/10.1016/j.hal.2026.103230)
 
 Proctor, C, MM Mills, GL van Dijken, JA Lauer, **SM Lim**, A Palm, CM Payne, RS Pickart, CW Mordy, E Li, M Prakash, KR Arrigo. In press. Evolution of an extensive under-ice phytoplankton bloom in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
 
