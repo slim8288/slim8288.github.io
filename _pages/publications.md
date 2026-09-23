@@ -7,11 +7,11 @@ author_profile: true
 
 _Please feel free to email me for a copy of any of these works._
 
-**Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In press. Urea dominates nitrogen uptake in the Pacific Arctic Ocean during a summer bloom of _Alexandrium catenella_. _Harmful Algae_. DOI:[10.1016/j.hal.2026.103230](https://doi.org/10.1016/j.hal.2026.103230)
+**Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. In press. Urea dominates summer nitrogen uptake in the Pacific Arctic Ocean during a harmful dinoflagellate bloom. _Harmful Algae_. DOI:[10.1016/j.hal.2026.103230](https://doi.org/10.1016/j.hal.2026.103230)
 
-Proctor, C, MM Mills, GL van Dijken, JA Lauer, **SM Lim**, A Palm, CM Payne, RS Pickart, CW Mordy, E Li, M Prakash, KR Arrigo. In press. Evolution of an extensive under-ice phytoplankton bloom in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
+Proctor, C, MM Mills, GL van Dijken, JA Lauer, **SM Lim**, A Palm, CM Payne, RS Pickart, CW Mordy, E Li, M Prakash, KR Arrigo. 2026. Evolution of an extensive under-ice phytoplankton bloom in the Chukchi Sea. _Journal of Geophysical Research: Oceans_, 131(9): e2025JC023528. DOI:[10.1029/2025JC023528](https://doi.org/10.1029/2025JC023528)
 
-Lauer, JA, GL van Dijken, MM Mills, RS Pickart, L Arlen, **SM Lim**, E Li, CM Payne, C Proctor, G Zhong, M Prakash, C Michel, KR Arrigo. In press. Particle interceptor trap deployments demonstrate enhanced export driven by frontal dynamics in the Chukchi Sea. _Journal of Geophysical Research: Oceans_.
+Lauer, JA, GL van Dijken, MM Mills, RS Pickart, L Arlen, **SM Lim**, E Li, CM Payne, C Proctor, G Zhong, M Prakash, C Michel, KR Arrigo.  2026. Particle interceptor trap deployments demonstrate enhanced export driven by frontal dynamics in the Chukchi Sea. _Journal of Geophysical Research: Oceans_, 131(9): e2025JC023507. DOI:[10.1029/2025JC023507](https://doi.org/10.1029/2025JC023507)
 
 Fachon, E, KR Schrage, LS Lago, M Pathare, **SM Lim**, CL Goethel. 2025. A high-density multi-species bivalve spawning event in the southern Chukchi Sea.  _Marine Ecology Progress Series_, 773: 43-59. DOI:[10.3354/meps14981](https://doi.org/10.3354/meps14981)
 
