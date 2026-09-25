@@ -5,6 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: smlim (at) stanford.edu
+Email: stephanie.m.lim (at) jpl.nasa.gov
 
 ![Antarctic iceberg at sunset](../images/icebergsunset.jpg)
