@@ -8,6 +8,8 @@ author_profile: true
 _Please feel free to email me for a copy of any of these works._
 
 **Lim, SM**, MM Mills, CM Payne, E Fachon, DM Anderson, RS Pickart, LS Lago, KR Arrigo. 2026. Urea dominates summer nitrogen uptake in the Pacific Arctic Ocean during a harmful dinoflagellate bloom. _Harmful Algae_, 160: 103230. DOI:[10.1016/j.hal.2026.103230](https://doi.org/10.1016/j.hal.2026.103230)
+> Free funders' version here: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13760189/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13760189/)
+
 
 Proctor, C, MM Mills, GL van Dijken, JA Lauer, **SM Lim**, A Palm, CM Payne, RS Pickart, CW Mordy, E Li, M Prakash, KR Arrigo. 2026. Evolution of an extensive under-ice phytoplankton bloom in the Chukchi Sea. _Journal of Geophysical Research: Oceans_, 131(9): e2025JC023528. DOI:[10.1029/2025JC023528](https://doi.org/10.1029/2025JC023528)
 
